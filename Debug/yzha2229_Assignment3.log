@@ -1,0 +1,7 @@
+﻿  main.cpp
+  MatchGame.cpp
+c:\users\andy\documents\visual studio 2015\projects\yzha2229_assignment3\matchgame.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andy\documents\visual studio 2015\projects\yzha2229_assignment3\matchgame.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  yzha2229_Assignment3.vcxproj -> C:\Users\Andy\documents\visual studio 2015\Projects\yzha2229_Assignment3\Debug\yzha2229_Assignment3.exe
+  yzha2229_Assignment3.vcxproj -> C:\Users\Andy\documents\visual studio 2015\Projects\yzha2229_Assignment3\Debug\yzha2229_Assignment3.pdb (Full PDB)
